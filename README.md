@@ -8,3 +8,6 @@ A program to solve linear systems of equations that have a unique solution, usin
 
 ## Limitations
 - It does not solve indeterminate systems
+
+## Setup
+- Cmake and CPP17
